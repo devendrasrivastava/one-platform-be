@@ -28,12 +28,12 @@ public class JWTResponse {
 //		super();
 //		this.jwtToken = jwtToken;
 //	}
-
+//
 //	public JWTResponse() {
 //		super();
-
+//
 //	}
-	
+//
 	
 	
 	
